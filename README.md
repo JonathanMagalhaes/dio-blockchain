@@ -29,6 +29,12 @@
 
 ## Módulos do Programa
 
+- [Fundamentos da Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain)
+- Cripto com Blockchain
+- Desenvolvimento com Solidity para Blockchain
+
 ## Projetos / Desafios de Código
+
+- [Gerador de Carteiras Bitcoin](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Gerador%20de%20Carteiras%20Bitcoin)
 
 ## Conclusão da Formação: 
