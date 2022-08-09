@@ -31,7 +31,7 @@
 
 - [Fundamentos da Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain)
 - Cripto com Blockchain
-- Desenvolvimento com Solidity para Blockchain
+- [Desenvolvimento com Solidity para Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain)
 
 ## Projetos / Desafios de Código
 
