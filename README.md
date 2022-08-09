@@ -36,5 +36,6 @@
 ## Projetos / Desafios de Código
 
 - [Gerador de Carteiras Bitcoin](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Gerador%20de%20Carteiras%20Bitcoin)
+- [Desafios de Código Javascript - Fundamentos da Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Desafios%20de%20C%C3%B3digo)
 
 ## Conclusão da Formação: 
