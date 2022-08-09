@@ -30,13 +30,14 @@
 ## Módulos do Programa
 
 - [Fundamentos da Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain)
-- Cripto com Blockchain
+- [Cripto com Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Cripto%20com%20Blockchain)
 - [Desenvolvimento com Solidity para Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain)
 
 ## Projetos / Desafios de Código
 
-- [Gerador de Carteiras Bitcoin](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Gerador%20de%20Carteiras%20Bitcoin)
 - [Desafios de Código Javascript - Fundamentos da Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Desafios%20de%20C%C3%B3digo)
+- [Desafios de Código Javascript - Cripto com Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Cripto%20com%20Blockchain/Desafios%20de%20C%C3%B3digo)
+- [Gerador de Carteiras Bitcoin](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Gerador%20de%20Carteiras%20Bitcoin)
 - [Criando a Sua Primeira Criptomoeda da Rede Ethereum](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain/primeira-cripto/contracts)
 
 ## Conclusão da Formação: 
