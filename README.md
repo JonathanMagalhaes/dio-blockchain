@@ -37,6 +37,7 @@
 
 - [Desafios de Código Javascript - Fundamentos da Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Desafios%20de%20C%C3%B3digo)
 - [Desafios de Código Javascript - Cripto com Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Cripto%20com%20Blockchain/Desafios%20de%20C%C3%B3digo)
+- [Desafios de Código Javascript - Desenvolvimento com Solidity para Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain/Desafios%20de%20C%C3%B3digo)
 - [Gerador de Carteiras Bitcoin](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Gerador%20de%20Carteiras%20Bitcoin)
 - [Criando a Sua Primeira Criptomoeda da Rede Ethereum](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain/primeira-cripto/contracts)
 - [Crie o seu NFT de Pokémon com Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain/nft-pokemon)
@@ -45,7 +46,7 @@
 
 - [Fundamentos da Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Certificados)
 - [Cripto com Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Cripto%20com%20Blockchain/Certificados)
-- Desenvolvimento com Solidity para Blockchain
+- [Desenvolvimento com Solidity para Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain/Certificados)
 
 ## Conclusão da Formação: 18/08/2022
 ![Certificado de Conclusão](https://github.com/JonathanMagalhaes/dio-blockchain/blob/main/Forma%C3%A7%C3%A3o%20Blockchain%20Specialist.png)
