@@ -39,6 +39,7 @@
 - [Desafios de Código Javascript - Cripto com Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Cripto%20com%20Blockchain/Desafios%20de%20C%C3%B3digo)
 - [Gerador de Carteiras Bitcoin](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Fundamentos%20da%20Blockchain/Gerador%20de%20Carteiras%20Bitcoin)
 - [Criando a Sua Primeira Criptomoeda da Rede Ethereum](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain/primeira-cripto/contracts)
+- [Crie o seu NFT de Pokémon com Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Desenvolvimento%20com%20Solidity%20para%20Blockchain/nft-pokemon)
 
 ## Certificados
 
