@@ -47,4 +47,5 @@
 - [Cripto com Blockchain](https://github.com/JonathanMagalhaes/dio-blockchain/tree/main/Cripto%20com%20Blockchain/Certificados)
 - Desenvolvimento com Solidity para Blockchain
 
-## Conclusão da Formação: 
+## Conclusão da Formação: 18/08/2022
+![Certificado de Conclusão](https://github.com/JonathanMagalhaes/dio-blockchain/blob/main/Forma%C3%A7%C3%A3o%20Blockchain%20Specialist.png)
